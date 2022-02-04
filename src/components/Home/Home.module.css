@@ -1,0 +1,21 @@
+.container {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.box {
+  border-radius: 1rem;
+}
+
+.image-box {
+  height: 30%;
+}
+
+.image-box img {
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.form-box {
+    height: 70%;
+}

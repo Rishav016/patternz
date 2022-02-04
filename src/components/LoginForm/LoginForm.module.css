@@ -1,0 +1,20 @@
+.login-form {
+  width: 60%;
+  display: grid;
+  margin-left: 20%;
+  border-radius: 0.5rem;
+  background-color: #ffffff;
+}
+
+.login-text-field {
+  margin: 1rem !important;
+}
+
+.login-form Button {
+  margin: 2rem !important;
+}
+
+.login-form span {
+  display: flex;
+  margin: 1rem 3rem 1rem 3rem;
+}
