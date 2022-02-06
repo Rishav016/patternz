@@ -2,7 +2,6 @@ import React from "react";
 import classes from "./Home.module.css";
 import { Container, CssBaseline, Box, Link } from "@mui/material";
 import logoUrl from "../../assets/images/Patternz.png";
-import footerImage from "../../assets/images/footer.png";
 import LoginForm from "../LoginForm/LoginForm";
 
 const Login = () => {
