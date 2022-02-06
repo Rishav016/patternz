@@ -1,4 +1,4 @@
-.login-form {
+.form-control {
   width: 60%;
   display: grid;
   margin-left: 20%;
@@ -6,15 +6,15 @@
   background-color: #ffffff;
 }
 
-.login-text-field {
+.text-field {
   margin: 1rem !important;
 }
 
-.login-form Button {
+.form-control Button {
   margin: 2rem !important;
 }
 
-.login-form span {
+.link {
   display: flex;
   margin: 1rem 3rem 1rem 3rem;
 }
